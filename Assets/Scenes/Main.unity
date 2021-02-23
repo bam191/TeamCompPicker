@@ -19194,6 +19194,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f21bb063f951dc943b00e90ff42ae8a4, type: 2}
   - {fileID: 11400000, guid: cff95bb313ac9c54f858b282dcb34356, type: 2}
   - {fileID: 11400000, guid: 186dd1df6efe83f418c364de22d264a7, type: 2}
+  - {fileID: 11400000, guid: f7616efaa217fe04c891d8adebfe4ec8, type: 2}
   m_ChampionData:
   - {fileID: 11400000, guid: 77ff595893dba3e4f98b1ab8438bc7ce, type: 2}
   - {fileID: 11400000, guid: 886f7b1232476ce4c862ae7d2ecd9ed1, type: 2}
