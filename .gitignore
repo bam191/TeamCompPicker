@@ -1,0 +1,9 @@
+Library/
+Temp/
+Logs/
+Packages/
+.vscode/
+Assembly-CSharp
+TeamCompPickerGitHub.sln
+Assembly-CSharp.csproj
+obj/
