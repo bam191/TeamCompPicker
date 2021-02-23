@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5539714a8c07638439b6d3924bdb8338, type: 3}
+  m_Name: Thoklarr
+  m_EditorClassIdentifier: 
+  m_PlayerName: Thoklarr
+  m_MainRole: 2
+  m_OffRole: 4
+  m_TopChampions:
+  - {fileID: 11400000, guid: 84ddeaac5eb87f44aa1502bdf5b98cd1, type: 2}
+  - {fileID: 11400000, guid: 26e3f89373b6c3b41a5ad6f2758f9b81, type: 2}
+  - {fileID: 11400000, guid: 981c5dc593d5b17459f3f201f1704534, type: 2}
+  m_JungleChampions:
+  - {fileID: 11400000, guid: d0188dafac4692c4c941e0815a1b7830, type: 2}
+  - {fileID: 11400000, guid: f1227159f50d4784fbd167a4408571c7, type: 2}
+  m_MiddleChampions:
+  - {fileID: 11400000, guid: 84ddeaac5eb87f44aa1502bdf5b98cd1, type: 2}
+  - {fileID: 11400000, guid: 39a516de2df68f84e8450fe4d2b62c80, type: 2}
+  - {fileID: 11400000, guid: 836029e6dc3252d43b82b77a0efcc756, type: 2}
+  - {fileID: 11400000, guid: 1a9b5f81c6b0d284abf6810bfe6100b1, type: 2}
+  m_BottomChampions:
+  - {fileID: 11400000, guid: d5c29945dfe14bd4384f2445bcf7208f, type: 2}
+  - {fileID: 11400000, guid: 2da47d74235caff46a4096ad5399d781, type: 2}
+  - {fileID: 11400000, guid: 9708b131e50d7b9468a161e78934fdfb, type: 2}
+  - {fileID: 11400000, guid: 79f4740ff81b6d441901662467676d23, type: 2}
+  - {fileID: 11400000, guid: c0cf7c72d99a81b4285de56ac4597743, type: 2}
+  - {fileID: 11400000, guid: 5b1f883704a2f1a4081c083b9d6fb16e, type: 2}
+  - {fileID: 11400000, guid: 74c693a7ac6bae6409c29c63db63b88d, type: 2}
+  m_SupportChampions:
+  - {fileID: 11400000, guid: 130d7e9d0d24c6d4fbbdbe8b1c1a4465, type: 2}
+  - {fileID: 11400000, guid: 836029e6dc3252d43b82b77a0efcc756, type: 2}
+  - {fileID: 11400000, guid: 2fa4a73e754a67d43b3be5335abc3e88, type: 2}
+  - {fileID: 11400000, guid: 1a2b299eaa491df4ba7cb0735fc473df, type: 2}
+  - {fileID: 11400000, guid: 082741a6c2d726143b55cdc24e55f1dc, type: 2}
+  - {fileID: 11400000, guid: daa7fb5bb49765940ae7853515a683cb, type: 2}
+  - {fileID: 11400000, guid: dbde1758f600b4d4da2c279a2358fb71, type: 2}
+  - {fileID: 11400000, guid: 7287ce05e28277848b23d3a7bb2cb72c, type: 2}
+  - {fileID: 11400000, guid: 4777519dff5e9d94786fce13dcb8b29a, type: 2}

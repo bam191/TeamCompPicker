@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 432297fa36187a045aac2b88ff055793, type: 3}
+  m_Name: ScoreData
+  m_EditorClassIdentifier: 
+  m_HardCCScores:
+    NoChampScore: -10
+    OneChampScore: -5
+    TwoChampScore: 0
+    ThreeChampScore: 15
+    FourChampScore: 20
+    FiveChampScore: 0
+  m_HardEngageScores:
+    NoChampScore: -10
+    OneChampScore: 0
+    TwoChampScore: 10
+    ThreeChampScore: 10
+    FourChampScore: 0
+    FiveChampScore: -10
+  m_DisengageScores:
+    NoChampScore: -5
+    OneChampScore: 5
+    TwoChampScore: 10
+    ThreeChampScore: 5
+    FourChampScore: -10
+    FiveChampScore: -10
+  m_PokeScores:
+    NoChampScore: -5
+    OneChampScore: 5
+    TwoChampScore: 10
+    ThreeChampScore: 10
+    FourChampScore: 0
+    FiveChampScore: -10
+  m_WaveClearScores:
+    NoChampScore: -10
+    OneChampScore: 5
+    TwoChampScore: 10
+    ThreeChampScore: 0
+    FourChampScore: -10
+    FiveChampScore: -10
+  m_TankScores:
+    NoChampScore: -10
+    OneChampScore: 5
+    TwoChampScore: 10
+    ThreeChampScore: 5
+    FourChampScore: 0
+    FiveChampScore: -10
+  m_PhysicalScores:
+    NoChampScore: -10
+    OneChampScore: 5
+    TwoChampScore: 10
+    ThreeChampScore: 10
+    FourChampScore: 0
+    FiveChampScore: -10
+  m_MagicalScores:
+    NoChampScore: -10
+    OneChampScore: 5
+    TwoChampScore: 10
+    ThreeChampScore: 10
+    FourChampScore: 0
+    FiveChampScore: -10
+  m_UtilityScores:
+    NoChampScore: -5
+    OneChampScore: 10
+    TwoChampScore: 5
+    ThreeChampScore: -5
+    FourChampScore: -10
+    FiveChampScore: -10
+  m_EarlyGameScores:
+    NoChampScore: -10
+    OneChampScore: 10
+    TwoChampScore: 10
+    ThreeChampScore: 0
+    FourChampScore: -5
+    FiveChampScore: -10
+  m_MidGameScores:
+    NoChampScore: 0
+    OneChampScore: 5
+    TwoChampScore: 10
+    ThreeChampScore: 5
+    FourChampScore: 0
+    FiveChampScore: -5
+  m_LateGameScores:
+    NoChampScore: -5
+    OneChampScore: 0
+    TwoChampScore: 5
+    ThreeChampScore: 10
+    FourChampScore: 10
+    FiveChampScore: 10
+  m_PreferredLaneScore: 0
+  m_SideLaneScore: 0

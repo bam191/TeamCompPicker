@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d8dd941768306347b530faa310acc5d, type: 3}
+  m_Name: Miss Fortune
+  m_EditorClassIdentifier: 
+  m_ChampionName: Miss Fortune
+  m_IsHardCC: 0
+  m_IsHardEngage: 0
+  m_IsDisengage: 0
+  m_IsPoke: 0
+  m_IsWaveclear: 0
+  m_Tank: 0
+  m_DamageType: 0
+  m_IsEarlyGame: 0
+  m_IsMidGame: 1
+  m_IsLateGame: 0
+  m_CounteredBy: []

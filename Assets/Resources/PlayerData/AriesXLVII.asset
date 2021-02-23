@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5539714a8c07638439b6d3924bdb8338, type: 3}
+  m_Name: AriesXLVII
+  m_EditorClassIdentifier: 
+  m_PlayerName: AriesXLVII
+  m_MainRole: 0
+  m_OffRole: 2
+  m_TopChampions:
+  - {fileID: 11400000, guid: 65fce06689c02e943ad3e4a3abcd9319, type: 2}
+  - {fileID: 11400000, guid: 981c5dc593d5b17459f3f201f1704534, type: 2}
+  - {fileID: 11400000, guid: 2b574d18cc654734884de26275cc0f57, type: 2}
+  m_JungleChampions:
+  - {fileID: 11400000, guid: 628b7b1b00904b44d936a27c657c3af3, type: 2}
+  - {fileID: 11400000, guid: a97c2c001e2b9a24fb9f7c3b7a42db02, type: 2}
+  m_MiddleChampions:
+  - {fileID: 11400000, guid: eee729d4279a26140a5ef2959f00fd39, type: 2}
+  - {fileID: 11400000, guid: 84ddeaac5eb87f44aa1502bdf5b98cd1, type: 2}
+  m_BottomChampions:
+  - {fileID: 11400000, guid: 4031476b31532a3409140e76923c0227, type: 2}
+  m_SupportChampions:
+  - {fileID: 11400000, guid: a4bc5d2c81e82754496911737cd7239a, type: 2}
+  - {fileID: 11400000, guid: 981c5dc593d5b17459f3f201f1704534, type: 2}
