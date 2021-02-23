@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5539714a8c07638439b6d3924bdb8338, type: 3}
+  m_Name: Ambid17
+  m_EditorClassIdentifier: 
+  m_PlayerName: Ambid17
+  m_MainRole: 0
+  m_OffRole: 2
+  m_TopChampions:
+  - {fileID: 11400000, guid: 46d073eb0140a79488afd526fbf94e26, type: 2}
+  - {fileID: 11400000, guid: 52db88905cc03e4458f5b19b4913cc54, type: 2}
+  - {fileID: 11400000, guid: 01ff860c82d48264a94a1e54ab92bc3d, type: 2}
+  - {fileID: 11400000, guid: c1bd65ec7df6a254e9c26eceae5213b5, type: 2}
+  - {fileID: 11400000, guid: a3f897b7d71861a42bc0c7cbe0ac2ad8, type: 2}
+  - {fileID: 11400000, guid: 67ab1f7f791a6294fa2e8d96ff2023cc, type: 2}
+  - {fileID: 11400000, guid: 14ff776d3290d6a479b3e9e81a5fa4d5, type: 2}
+  - {fileID: 11400000, guid: 65fce06689c02e943ad3e4a3abcd9319, type: 2}
+  - {fileID: 11400000, guid: 0e55de965c85af9489e29f3c34257415, type: 2}
+  m_JungleChampions:
+  - {fileID: 11400000, guid: d931ff8b61f35b349808702efa09b3fc, type: 2}
+  - {fileID: 11400000, guid: 507bd93ce08def24a929fa583bde4d9d, type: 2}
+  - {fileID: 11400000, guid: c1bd65ec7df6a254e9c26eceae5213b5, type: 2}
+  - {fileID: 11400000, guid: 46d073eb0140a79488afd526fbf94e26, type: 2}
+  - {fileID: 11400000, guid: 9390f1260a91ca549910ba1947b6e5c7, type: 2}
+  - {fileID: 11400000, guid: 8abb6e2fa71866e4e9fa0a431e6d2255, type: 2}
+  m_MiddleChampions:
+  - {fileID: 11400000, guid: eee729d4279a26140a5ef2959f00fd39, type: 2}
+  - {fileID: 11400000, guid: 714a6123273cc7b448ec192524863b6e, type: 2}
+  - {fileID: 11400000, guid: e12904bfb80406d448b9368877e77bf0, type: 2}
+  - {fileID: 11400000, guid: e9f6ceb43a200a64b994885ca0586727, type: 2}
+  - {fileID: 11400000, guid: 01ff860c82d48264a94a1e54ab92bc3d, type: 2}
+  - {fileID: 11400000, guid: a3f897b7d71861a42bc0c7cbe0ac2ad8, type: 2}
+  - {fileID: 11400000, guid: 39a516de2df68f84e8450fe4d2b62c80, type: 2}
+  - {fileID: 11400000, guid: b061fbcfc5ebead44a602031455a8c93, type: 2}
+  - {fileID: 11400000, guid: 1654667cb55e4944aa33a0d21f5aa451, type: 2}
+  m_BottomChampions:
+  - {fileID: 11400000, guid: 365da80d1a10d964fb14eec1c591bbe2, type: 2}
+  - {fileID: 11400000, guid: d5c29945dfe14bd4384f2445bcf7208f, type: 2}
+  - {fileID: 11400000, guid: 9708b131e50d7b9468a161e78934fdfb, type: 2}
+  - {fileID: 11400000, guid: 2da47d74235caff46a4096ad5399d781, type: 2}
+  - {fileID: 11400000, guid: 39a516de2df68f84e8450fe4d2b62c80, type: 2}
+  - {fileID: 11400000, guid: 124096aea5157034db127bc399a4e560, type: 2}
+  - {fileID: 11400000, guid: 50beaed26b4f72044911949411dbe097, type: 2}
+  m_SupportChampions:
+  - {fileID: 11400000, guid: 2fa4a73e754a67d43b3be5335abc3e88, type: 2}
+  - {fileID: 11400000, guid: a4bc5d2c81e82754496911737cd7239a, type: 2}
